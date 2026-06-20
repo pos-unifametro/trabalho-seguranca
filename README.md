@@ -14,6 +14,16 @@ Para cada caso, identifique:
 
 ---
 
+## Entregavel hoje 20/06/2026
+- 1 relatório em PDF (ou markdown) com as propostas de melhoria
+- 1 apresentação de até 20min explicando:
+  - Contexto da aplicação
+  - Problemas encontrados
+  - Propostas de solução
+  - Prazo para implementação da solução
+
+--- 
+
 # Caso 1 — Sistema Escolar
 
 ## Cenário
